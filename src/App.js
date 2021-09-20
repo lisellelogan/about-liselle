@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Welcome from './components/Welcome.js';
+import NavBar from './components/NavBar.js';
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
       // have component for each navbar item
       utilize react router for navbar toggle
       <h1>We are in app.js!</h1>
-      <Welcome />
+      <NavBar />
     </div>
   );
 }

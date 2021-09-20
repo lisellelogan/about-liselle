@@ -9,3 +9,5 @@ const NavBar = () => {
         </Switch>
     )
 }
+
+export default NavBar;
