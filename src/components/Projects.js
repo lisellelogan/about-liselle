@@ -1,8 +1,8 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 const Projects = () => {
     return (
-        "we're in the projects page!"
+        <h1>"we're in the projects page!"</h1>
     )
 }
 
