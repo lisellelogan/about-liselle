@@ -19,6 +19,14 @@ const NavBarStyle = () => {
             }}
             >About
         </NavLink><br/>
+
+        <NavLink 
+            to="/project"
+            activeStyle={{
+                fontWeight: "bold"
+            }}
+            >About
+        </NavLink><br/>
     </div>
     )
 }
