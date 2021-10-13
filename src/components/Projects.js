@@ -5,3 +5,5 @@ const Projects = () => {
         "we're in the projects page!"
     )
 }
+
+export default Projects;
