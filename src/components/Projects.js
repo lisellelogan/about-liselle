@@ -3,8 +3,6 @@ import React from 'react';
 const Projects = () => {
     return (
         <div>
-            <h1>"we're in the projects page!"</h1>
-
             <h1>The Social Pup</h1>
             <h1>smallbizsociety.</h1>
             <h1>Food for Fido</h1>
