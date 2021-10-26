@@ -14,6 +14,8 @@ const Projects = () => {
             
             <h1>Food for Fido</h1>
             <p>Food For Fido is a web application that allows users to find dog friendly, healthy recipes for their pup. This web application has admin functionality in order to prevent users from creating "bad recipes" that do not fit the appropriate guidelines. The admin has the ability to create and delete recipes but cannot comment on recipes. The comment space is meant to be utilized by the users where they can create, rate, comment, edit, and delete comments on recipes.</p>
+            <a href="https://www.youtube.com/watch?v=xLypFHFCnTQ"><img src="https://media.giphy.com/media/NqrPc6nfY1F1xwPRUx/giphy.gif" alt="Giphy of Food for Fido"/></a>
+
         </div>
     )
 }
