@@ -5,7 +5,8 @@ const Projects = () => {
         <div>
             <h1>The Social Pup</h1>
             <p>
-The Social Pup was created to help new dog owners, and old, find other pup's to have play dates! This application allows owner's to sign in as their dog and find other pup's to message via email.</p>
+            The Social Pup was created to help new dog owners, and old, find other pup's to have play dates! This application allows owner's to sign in as their dog and find other pup's to message via email.</p>
+            <a href="https://www.youtube.com/watch?v=ovcXDkFOLi8"><img src="https://media.giphy.com/media/3GVw3yjlJGE6598Dbe/giphy.gif" alt="Giphy of The Social Pup"/></a><br/><br/>
             
             <h1>smallbizsociety.</h1>
             <p>More than a handful of the local businesses in my neighborhood have gone out of business due to the impact of COVID-19 so I wanted to create something similar to Yelp but more niche for all small businesses in New York City. This app was created to serve as a platform that will allow a small business to add their business and start posting their products right away! The small business has the ability to create, edit, update, and delete their business as well as their items.</p>
