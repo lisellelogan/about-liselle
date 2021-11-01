@@ -7,7 +7,7 @@ const Welcome = () => {
             <h1>Liselle Logan</h1>
             <p>Full-Stack Software Engineer</p>
 
-            <button>Download Resume</button> <button>Learn More</button>
+            <button>Download Resume</button> <button onClick={() => history.push('/about')}>Learn More</button>
         </>
     )
 }
