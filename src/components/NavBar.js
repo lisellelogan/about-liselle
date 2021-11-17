@@ -4,7 +4,7 @@ import NavBarStyle from "./NavBarStyle.js";
 import Welcome from "./Welcome.js";
 import About from "./About.js";
 import Projects from "./Projects";
-import Contact from "./Contact.js";
+import ContactForm from "./ContactForm.js";
 
 const NavBar = () => {
   return (
@@ -14,7 +14,7 @@ const NavBar = () => {
         <Route path="/welcome" exact component={Welcome} />
         <Route path="/about" exact component={About} />
         <Route path="/projects" exact component={Projects} />
-        <Route path="/contact" exact component={Contact} />
+        <Route path="/contact" exact component={ContactForm} />
       </Switch>
     </>
   );
