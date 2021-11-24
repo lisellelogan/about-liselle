@@ -12,9 +12,19 @@ class ContactForm extends Component {
     const name = event.target.name;
     const value = event.target.value;
 
-    this.setState = {
+    this.setState({
       [name]: value,
-    };
+    });
+  };
+
+  handleOnSubmit = (event) => {
+    event.preventDefault();
+    this.setState({
+      firstName: "",
+      lastName: "",
+      email: "",
+      message: "",
+    });
   };
 
   render() {
