@@ -1,7 +1,13 @@
-import React from "react";
+import React, { Component } from "react";
 
-const ContactForm = () => {
-  return <h1>Contact Form</h1>;
+class ContactForm extends Component {
+  return (
+    <form>
+      <input type="text" name="firstName" value />
+      <input />
+      <input />
+    </form>
+  );
 };
 
 export default ContactForm;
